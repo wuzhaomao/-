@@ -1,0 +1,4 @@
+{
+    "usingComponents": { "Searchinput": "../../components/SearchInput/SearchInput" },
+    "navigationBarTitleText": "好物多商城首页"
+}
